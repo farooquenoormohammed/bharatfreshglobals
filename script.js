@@ -6,7 +6,7 @@
   // 1. Go to https://web3forms.com, enter adnan.rayeen@bharatfreshglobals.com, click "Create Access Key".
   // 2. Copy the key from the email you receive and paste it below.
   // Until a key is pasted, the form falls back to opening the visitor's email app.
-  var WEB3FORMS_KEY = "da95e138-d7a1-44e7-9e72-9574acbde7e7";
+  var WEB3FORMS_KEY = "f389e245-f85d-40fe-8f12-13addb836c57";
 
   // Footer year
   var yearEl = document.getElementById("year");
